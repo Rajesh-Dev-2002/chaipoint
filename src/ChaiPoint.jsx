@@ -350,7 +350,7 @@ export default function ChaiPoint() {
               fontStyle: "italic",
             }}
           >
-            Prices haven't changed since we stopped pretending inflation isn't real111111111111.
+            Prices haven't changed since we stopped pretending inflation isn't real.
           </p>
           <div
             style={{
