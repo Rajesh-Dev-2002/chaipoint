@@ -288,7 +288,7 @@ export default function ChaiPoint() {
           }}
         >
           Your neighborhood tapri, now with a website. Same steel glass. Same
-          bench that wobbles. Same uncle who remembers your order1111.
+          bench that wobbles. Same uncle who remembers your order.
         </p>
         <div
           style={{
